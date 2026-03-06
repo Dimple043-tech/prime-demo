@@ -2,7 +2,7 @@
 This is my practice git github class
 
 # Teacher
-Sharadha Khapra
+Sharadha Khapra.
 
 # Student
 Dimple Saxena.
